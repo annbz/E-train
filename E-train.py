@@ -124,5 +124,4 @@ try:
 
 except:
     print("-1")
-    
-#print(earliest(matrix_t, matrix_k, city_x, city_y, n_city))
+
